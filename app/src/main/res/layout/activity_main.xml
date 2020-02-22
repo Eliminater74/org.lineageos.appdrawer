@@ -17,7 +17,7 @@
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     android:animationCache="true"
-    android:background="@drawable/background"
+    android:background="#0B0A0A"
     android:backgroundTint="#020202"
     android:orientation="vertical"
     android:paddingStart="10dp"
