@@ -16,7 +16,8 @@
         android:fullBackupContent="@xml/backup_descriptor"
         android:icon="@drawable/ic_allapps"
         android:label="@string/app_name"
-        android:theme="@style/Theme.Leanback">
+        android:theme="@style/Theme.Leanback"
+        android:banner="@drawable/ic_allapps">
         <activity
             android:name="org.lineageos.appdrawer.AppDrawerActivity"
             android:label="@string/app_name">
