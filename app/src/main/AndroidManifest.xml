@@ -5,6 +5,9 @@
     android:versionName="1.0" >
 
     <uses-sdk android:targetSdkVersion="22" />
+    <uses-feature
+        android:name="android.hardware.touchscreen"
+        android:required="false" />
 
     <application
         android:icon="@drawable/ic_allapps"
