@@ -27,7 +27,7 @@
             android:id="@+id/app_icon"
             android:layout_width="96dp"
             android:layout_height="96dp"
-            android:background="#25FFFFFF"
+            android:background="#00FFFFFF"
             android:padding="3dp"
             android:scaleType="centerCrop" />
 
